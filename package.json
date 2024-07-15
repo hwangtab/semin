@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "semin",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://hwangtab.github.io/semin",
+=======
+  "name": "hwangtab",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://hwangtab.github.io/semin",
+>>>>>>> 907d661f4f2adf71dfa7ed1a1bd0c3003f64ff1c
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
